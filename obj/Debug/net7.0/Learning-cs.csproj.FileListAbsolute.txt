@@ -1,0 +1,15 @@
+/Users/paulsisson/projects/Learning-cs/Learning-cs/bin/Debug/net7.0/Learning-cs
+/Users/paulsisson/projects/Learning-cs/Learning-cs/bin/Debug/net7.0/Learning-cs.deps.json
+/Users/paulsisson/projects/Learning-cs/Learning-cs/bin/Debug/net7.0/Learning-cs.runtimeconfig.json
+/Users/paulsisson/projects/Learning-cs/Learning-cs/bin/Debug/net7.0/Learning-cs.dll
+/Users/paulsisson/projects/Learning-cs/Learning-cs/bin/Debug/net7.0/Learning-cs.pdb
+/Users/paulsisson/projects/Learning-cs/Learning-cs/obj/Debug/net7.0/Learning-cs.csproj.AssemblyReference.cache
+/Users/paulsisson/projects/Learning-cs/Learning-cs/obj/Debug/net7.0/Learning-cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulsisson/projects/Learning-cs/Learning-cs/obj/Debug/net7.0/Learning-cs.AssemblyInfoInputs.cache
+/Users/paulsisson/projects/Learning-cs/Learning-cs/obj/Debug/net7.0/Learning-cs.AssemblyInfo.cs
+/Users/paulsisson/projects/Learning-cs/Learning-cs/obj/Debug/net7.0/Learning-cs.csproj.CoreCompileInputs.cache
+/Users/paulsisson/projects/Learning-cs/Learning-cs/obj/Debug/net7.0/Learning-cs.dll
+/Users/paulsisson/projects/Learning-cs/Learning-cs/obj/Debug/net7.0/refint/Learning-cs.dll
+/Users/paulsisson/projects/Learning-cs/Learning-cs/obj/Debug/net7.0/Learning-cs.pdb
+/Users/paulsisson/projects/Learning-cs/Learning-cs/obj/Debug/net7.0/Learning-cs.genruntimeconfig.cache
+/Users/paulsisson/projects/Learning-cs/Learning-cs/obj/Debug/net7.0/ref/Learning-cs.dll
